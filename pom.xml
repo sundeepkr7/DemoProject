@@ -43,11 +43,5 @@
 </dependency>
 
 
-
-  	<dependency>
-  		<groupId>Company</groupId>
-  		<artifactId>SeleniumFrameworkDesign</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 </project>
